@@ -20,3 +20,4 @@ START <br/>
   Step 10 - Return <br/>
 STOP <br/>
 
+![link to the solution](https://github.com/ASTHA193/Pascal-triangle/blob/master/solution.c)
